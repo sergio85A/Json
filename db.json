@@ -1,16 +1,7 @@
 {
   "Customer" :
   {
-    "customerId" : "Identificador de cliente"
-    [
-      {
-        "atributos" :
-        {
-          "tipo"    : "bbdd",
-          "nombre"  : "id_customer"
-        }
-      }
-    ],
+    "customerId" : "Identificador de cliente",
     "person" : "Breve descr.",
     "organization" : "Breve descr.",
     "contactPoint" : "Breve descr.",
