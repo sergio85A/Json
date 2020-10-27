@@ -1,1 +1,19 @@
-
+{
+  "Customer" :
+  {
+    "customerId" : "Identificador de cliente"
+    [
+      {
+        "atributos" :
+        {
+          "tipo"    : "bbdd",
+          "nombre"  : "id_customer"
+        }
+      }
+    ],
+    "person" : "Breve descr.",
+    "organization" : "Breve descr.",
+    "contactPoint" : "Breve descr.",
+    "validityPeriod" : "Breve descr."
+  }
+}
